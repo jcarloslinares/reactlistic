@@ -1,0 +1,23 @@
+{
+  "name": "reactlistic",
+  "version": "1.0.0",
+  "description": "to do list using react, graphql, nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarloslinares/reactlistic.git"
+  },
+  "keywords": [
+    "todo",
+    "list"
+  ],
+  "author": "J. Carlos Linares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcarloslinares/reactlistic/issues"
+  },
+  "homepage": "https://github.com/jcarloslinares/reactlistic#readme"
+}
