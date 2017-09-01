@@ -1,6 +1,6 @@
 {
   "name": "reactlistic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "to do list using react, graphql, nodejs ",
   "main": "index.js",
   "scripts": {
